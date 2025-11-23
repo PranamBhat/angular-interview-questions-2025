@@ -1,6 +1,6 @@
 # Angular Interview Questions (2025)
 
-This file contains a curated list of Angular interview questions (updated for 2025 experience). Use this as a revision checklist or for interview prep.
+This file contains a curated list of Angular Interview Questions (updated as per 2025 interview experience)
 
 ---
 
@@ -102,8 +102,7 @@ This file contains a curated list of Angular interview questions (updated for 20
 96. mergeMap and switchMap
 97. JWT Authentication Flow in Angular application
 98. Zonleless change detection 
-99. AngularJS to Angular upgrade
-100. 
+99. AngularJS to Angular upgrade. What are the steps.
 
 ---
 
